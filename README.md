@@ -1,4 +1,4 @@
-[My](http://forums.udacity.com/users/100064428/joyrexus) homework and exam source code from Udacity's [CS212 course](~/Documents/Work/LDP/sandbox/jason/udacity/cs212) ("Design of Computer Programs").
+[My](http://forums.udacity.com/users/100064428/joyrexus) homework and exam source code from Udacity's [CS212 course](https://www.udacity.com/course/cs212) ("Design of Computer Programs").
 
 
 ## Post-course review
